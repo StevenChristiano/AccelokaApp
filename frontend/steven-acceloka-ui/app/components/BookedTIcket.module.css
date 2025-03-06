@@ -1,0 +1,16 @@
+.ticket {
+  clip-path: polygon(
+    0% 35%, 5% 20%, 8% 0%, 
+    92% 0%, 95% 20%, 100% 35%, 
+    100% 65%, 95% 80%, 92% 100%, 
+    8% 100%, 5% 80% ,0% 65% 
+  );
+  border-radius: 20px;
+  background-color: #f9fafb;
+  padding: 3rem;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.ticket:hover {
+  background: linear-gradient(to right, #111827, #374151);
+}
