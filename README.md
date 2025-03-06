@@ -1,11 +1,11 @@
 
 # Acceloka Ticket Booking System
 
-This project is a full-stack online ticket booking system using ASP.NET 8 and Next.js.
+This is an online ticket booking system using ASP.NET 8 and Next.js.
 
 ## Features
 - View available tickets with filtering and sorting.
-- Book tickets with automatic validation.
+- Book tickets.
 - View booked tickets.
 - Cancel or edit booked tickets.
 
