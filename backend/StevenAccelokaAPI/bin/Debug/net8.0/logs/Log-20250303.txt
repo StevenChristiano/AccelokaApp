@@ -1,0 +1,2 @@
+[2025-03-03 11:02:35] [Information] HTTP "GET" "/swagger/index.html" responded 200 in 133.8745 ms
+[2025-03-03 11:02:35] [Information] HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 6.7783 ms
