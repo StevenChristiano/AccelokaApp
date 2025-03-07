@@ -14,7 +14,7 @@ This is an online ticket booking system using ASP.NET 8 and Next.js.
 - Frontend: Next.js (React), Tailwind CSS.
 - Logging: Serilog.
 
-### Setup Instructions
+## Setup Instructions
 ### 1. Clone the repository
 ### 2. Navigate to the backend folder and run:
 - cd StevenAccelokaAPI
@@ -26,4 +26,4 @@ This is an online ticket booking system using ASP.NET 8 and Next.js.
 - npm run dev
 
 ### BUG
-There is a bug still with the Book Ticket. When I add the ticket with lowercase, it can't find the ticket, but the BookedTicketId still accept it, so when i want to book another ticket, the bookedTicketID skipped a number. The solution is maybe to add more validation to it.
+There is a bug still with the Book Ticket. When I add the ticket with lowercase, it can't find the ticket, but the BookedTicketId still accept it, so when i want to book another ticket, the bookedTicketID skipped a number. The solution is maybe to add more validation to it. (Fixed)
