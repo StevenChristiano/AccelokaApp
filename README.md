@@ -24,3 +24,6 @@ This is an online ticket booking system using ASP.NET 8 and Next.js.
 - cd ../frontend/steven-acceloka-ui
 - npm install
 - npm run dev
+
+### BUG
+There is a bug still with the Book Ticket. When I add the ticket with lowercase, it can't find the ticket, but the BookedTicketId still accept it, so when i want to book another ticket, the bookedTicketID skipped a number. The solution is maybe to add more validation to it.
