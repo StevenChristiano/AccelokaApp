@@ -52,3 +52,5 @@ Thumbs.db         # Windows thumbnail cache
 
 # Ignore Build Artifacts
 .next/cache       # Next.js cache folder
+.vs/
+backend/StevenAccelokaAPI/logs/
