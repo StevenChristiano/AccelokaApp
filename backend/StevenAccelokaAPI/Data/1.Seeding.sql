@@ -2,8 +2,8 @@
 Select * From BookedTickets
 Select * From Bookings
 
-
-Delete From BookedTickets
+INSERT INTO TicketCategory (Name) VALUES 
+('Concert'), ('Sports'), ('Theater'), ('Conference'), ('Festival');
 
 INSERT INTO Tickets (TicketCode, TicketName, EventDate, Quota, Price, TicketCategoryId) VALUES
 ('C001', 'Coldplay Live', '2025-06-15 19:30:00', 500, 120.00, 1),
