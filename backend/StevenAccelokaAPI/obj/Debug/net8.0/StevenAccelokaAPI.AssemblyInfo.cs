@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StevenAccelokaAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+326ae1e444ad4e425687ac4317ec813396b0977a")]
 [assembly: System.Reflection.AssemblyProductAttribute("StevenAccelokaAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StevenAccelokaAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
