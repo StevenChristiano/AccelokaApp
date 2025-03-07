@@ -58,7 +58,7 @@ export default function BookTicket() {
               <input
                 type="text"
                 placeholder="Ticket Code"
-                value={ticket.ticketCode}
+                value={ticket.ticketCode.toUpperCase()}
                 onChange={(e) => handleInputChange(index, "ticketCode", e.target.value)}
                 className="flex-1 p-2 rounded-lg border focus:ring-2 focus:ring-blue-400 focus:outline-none transition"
               />
